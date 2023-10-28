@@ -65,3 +65,19 @@ IT 분야 자격증을 취득하려면 다양한 주관 기관 (큐넷(Q-net),  
 <img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/772e780f-c036-4259-abe6-c1da5c96ae3a"/>
 <img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/c93c7b95-a7ac-4a01-9bc7-d5e774ae6ec0"/>
 <img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/1712163b-085f-4fd6-9886-89a29e08b077"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/f09db523-4c3d-4ac2-b1a4-9545e91e71d4"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/9cf21048-c704-4a57-911c-297d6c46e2e6"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/cb8fc972-9287-4024-b3fd-de9afb79b38f"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/049a9037-404d-4c5c-81d7-c8bd3a2728cc"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/360ff7d6-7ba4-44a4-896e-b20550031709"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/d704fcb4-c48f-4d5b-b5c0-babada848953"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/f7abcb64-a579-4151-bd47-a58916d2da0c"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/6f5ada6d-d6c0-499f-a74c-6bb32156f69d"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/3262dfa6-d2f3-4a92-9b0e-1d731a0f9341"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/47e9e8e9-1181-4a9a-ba97-db37016c411e"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/94c74196-b055-492d-9116-e7b68cd825e0"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/86f67b72-ec2f-4aa9-877a-7ffbe17722b6"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/9e8ab8b5-8b50-4332-8ad7-82f111287511"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/721f9a06-848d-4073-b7b6-267ecb06a07b"/>
+
+
