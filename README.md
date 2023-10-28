@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=NiIipGnklnE
 <li>특징: <strong>카카오맵 API를 활용한 대리점/ 물류창고 및 재고 조회 기능, 사내 메시지 기능 및 실시간 메시지 알림</strong>, 웹 크롤링을 활용한 환율 조회</li><br/>
 <li>참여인원: 6인 (팀 프로젝트)</li>
   <ul>
-  <li>팀원1<strong>(팀장)</strong> : 출,퇴근 기록</li>
-  <li><strong>이정빈 : 물류창고, 대리점 조회 | 재고 조회 | 사내 메시지 (파일 업로드, 알림 기능)</strong></li>
-  <li>팀원2 : 일정 관리 | 마진 계산</li>
-  <li>팀원3 : 로그인 | 사원 관리 | 크롤링 데이터수집</li>
+  <li>팀원1<strong>(팀장)</strong> : 시험 일정 조회 | 시험 접수 </li>
+  <li><strong>이정빈 : 로그인, 회원가입 기능 | 마이페이지 기능</strong></li>
+  <li>팀원2 : 공지사항 게시판</li>
+  <li>팀원3 : 문의 게시판 및 댓글 기</li>
  </ul>
   <br><br>
 
@@ -27,12 +27,12 @@ https://www.youtube.com/watch?v=NiIipGnklnE
 
 <h2>사용 기술</h2>
 <ul>
-<li>Frontend: javascript, jQuery, AJAX, Bootstrap, HTML/CSS, Bootstrap</li>
-<li>Backend: Java, Spring Boot, MyBatis</li>
-<li>Database: MySQL</li>
-<li>Development Tool: IntelliJ</li>
-<li>ETC: Thymeleaf</li>
-<li>API: Kakao Map API</li>
+<li>Frontend: javascript, AJAX, Bootstrap, HTML/CSS, Bootstrap</li>
+<li>Backend: Java, Spring Boot</li>
+<li>Database: MySQL, MyBatis</li>
+<li>Development Tool: STS4</li>
+<li>ETC: JSP, Apache Tomcat</li>
+<li>API: Simple & Easy Notification Service</li>
 </ul>
 <br><br>
 
