@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=NiIipGnklnE
 <li>참여인원: 4인 (팀 프로젝트)</li>
   <ul>
   <li>팀원1<strong>(팀장)</strong> : 시험 일정 조회 | 시험 접수 </li>
-  <li><strong>이정빈 : 로그인, 회원가입 기능 | 마이페이지 기능</strong></li>
+  <li><strong>이정빈 : 로그인, 회원가입 | 마이페이지</strong></li>
   <li>팀원2 : 공지사항 게시판</li>
-  <li>팀원3 : 문의 게시판 및 댓글 기능</li>
+  <li>팀원3 : 문의 게시판 및 댓글</li>
  </ul>
   <br><br>
 
