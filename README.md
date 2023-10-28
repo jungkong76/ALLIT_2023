@@ -44,10 +44,7 @@ https://www.youtube.com/watch?v=NiIipGnklnE
 <br><br>
 
 <h2>주제선정 배경</h2>
-<ul>
-<li>공지 사항 / 결재 / 일정 등 업무와 관련된 기능을 제공하여 업무 효율성 증대</li>
-<li>알림 / 메시지 / 부서 게시판 등 각종 소통 기능으로 직원들간의 상호 교류 장려</li>
-</ul>
+IT 분야 자격증을 취득하려면 다양한 주관 기관 (큐넷(Q-net),  한국데이터산업진흥원(Kdata), 한국정보통신진흥협회(KAIT) 등)으로부터 정보를 찾아야 하기 때문에 필요한 정보를 놓치기 쉽고, 신청 과정도 각각의 사이트에서 이루어져 번거로움을 겪은 경험이 있다. 이러한 불편함을 해소하고, 시간을 절약하고자 모든 정보를 한눈에 볼 수 있는 웹 페이지를 개발하고자 한다.
 <br><br>
 
 <h2>프로젝트를 하며 좋았던 점</h2>
@@ -80,22 +77,4 @@ DB 설계 시 확장성에 대해 고려가 부족하였음
 
 <h2>간략히 살펴보기</h2>
 <img src="https://github.com/jungkong76/OMZTeam2023/assets/145302179/ba1895d8-0d71-4ba9-86bd-235ed18e8c52"/>
-<img src="https://github.com/jungkong76/OMZTeam2023/assets/145302179/ec11a895-8457-43b7-a645-49be8e61c866"/>
-<img src="https://github.com/jungkong76/OMZTeam2023/assets/145302179/2fd1a3ef-f166-4885-98ad-d7684136d899"/>
-<img src="https://github.com/jungkong76/OMZTeam2023/assets/145302179/a28fd47d-1f0e-46e1-9069-0be0f2854d15"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/0585455a-bbe5-440c-840f-fbd143ef852c"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/e91e3498-d7ab-4054-a5b0-31730be82ec2"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/31c6280b-0f1e-4d3b-990c-40406f59c45a"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/059f4f64-770b-415f-a422-07e726088394"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/17be43f3-9fdb-40cf-b58b-91269e7e8ad9"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/26bb7cab-6a9f-436f-94ad-22d9f78ae913"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/53916025-7bdc-481a-b82c-0343be9b7c05"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/3d79c83d-e4f5-4069-b4c3-786faee09703"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/f793aa70-3394-4dde-8705-2c82b4ba79aa"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/e7f7af0c-a3da-4bea-9573-7b8f4f7d3033"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/ac9fd40e-7be7-46cb-bc22-dfaf23c4238d"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/56351188-1076-409b-b309-7f9fe871c979"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/b38f4149-bb95-4dc8-929c-aba7054fa81a"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/4d5e2ba6-bfbc-4a71-8004-f2d134ebb017"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/ca8b8fdd-fb30-428f-9b0e-3a677c14e4a2"/>
-<img src = "https://github.com/jungkong76/OMZTeam2023/assets/145302179/ef2bb955-9aae-4b69-bd1f-2636cf4732af"/>
+
