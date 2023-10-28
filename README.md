@@ -58,9 +58,10 @@ IT 분야 자격증을 취득하려면 다양한 주관 기관 (큐넷(Q-net),  
 
 
 <h2>간략히 살펴보기</h2>
-<p><strong>[ERD]</strong></p><br>
-<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/03633c13-885e-4dcb-a9c8-b407173e509b"/>
+<p><strong>[ERD]</strong></p>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/03633c13-885e-4dcb-a9c8-b407173e509b"/><br><br>
 
-<p><strong>[PPT]</strong></p><br>
-<img src="https://github.com/jungkong76/OMZTeam2023/assets/145302179/ba1895d8-0d71-4ba9-86bd-235ed18e8c52"/>
-
+<p><strong>[PPT]</strong></p>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/772e780f-c036-4259-abe6-c1da5c96ae3a"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/c93c7b95-a7ac-4a01-9bc7-d5e774ae6ec0"/>
+<img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/1712163b-085f-4fd6-9886-89a29e08b077"/>
