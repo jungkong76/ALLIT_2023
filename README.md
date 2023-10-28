@@ -2,7 +2,7 @@
 <img src="https://github.com/jungkong76/ALLIT_2023/assets/145302179/abc6e9d1-c2fc-4996-a2ad-28712cfd815d"/>
 
 <h2>시연 동영상</h2>
-https://www.youtube.com/watch?v=ztoIYDRsqPE
+[https://www.youtube.com/watch?v=ztoIYDRsqPE](https://www.youtube.com/watch?v=NiIipGnklnE)
 
 
 <br/>
